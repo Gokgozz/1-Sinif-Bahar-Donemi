@@ -22,7 +22,7 @@ public class C02_odenecekTutar {
         System.out.println("Kahve ucretini giriniz : ");
         double kahveUcret = input.nextDouble();
         
-        System.out.println("Odemeniz gereken tutar : " + kahveTutarHesapla(kahveAdet,kahveUcret));
+        System.out.println("Odemeniz gereken ucret : " + kahveTutarHesapla(kahveAdet,kahveUcret));
     }
     
 }
